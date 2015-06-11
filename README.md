@@ -1,0 +1,2 @@
+# snuggels
+Snuggles Network Manager
